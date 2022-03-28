@@ -1,0 +1,5 @@
+book ksiazka
+phone telefon
+chair krzeslo
+sky niebo
+scala skala
